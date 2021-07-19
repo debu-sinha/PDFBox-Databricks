@@ -1,5 +1,5 @@
 # PDFBox-Databricks
-This end-end demo will walk the users through the process of extracting text from encoded PDF documents at scale using Apache PDFBox and Databricks using Scala and Spark.
+This end-end demo will walk the users through the process of extracting text from encoded PDF documents at scale using Apache PDFBox, Scala and Spark on the Databricks environment.
 
 # Software and package requirements
 1. Databricks Runtime 8.x+
