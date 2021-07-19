@@ -10,5 +10,5 @@ This end-end demo will walk the users through the process of extracting text fro
 3. Apache Commons IO: commons-io:commons-io:2.11.0
 
 # Installation Instructions
-1. Follow the Workspace setup instructions as described in the [article]().
-2. Import the notebook to your Databricks workspace as described [here](https://docs.databricks.com/notebooks/notebooks-manage.html#import-a-notebook)
+1. Follow the workspace setup instructions as described in the [article]().
+2. Import the [notebook](https://github.com/debu-sinha/PDFBox-Databricks/blob/main/PDFBox-Databricks-Scala.html) to your Databricks workspace as described [here](https://docs.databricks.com/notebooks/notebooks-manage.html#import-a-notebook)
